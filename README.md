@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Coding Activity
-
-<center><figure><embed src="https://wakatime.com/share/@zhenhuang/2bcb9169-1583-48d1-addf-b9fb2ed79aab.svg"></embed></figure></center>
 
