@@ -14,6 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
-<p align="center"><img src="/metrics.plugin.anilist.svg" alt="Metrics"></p>
-<p align="center"><img src="/metrics.plugin.wakatime.svg" alt="Metrics"></p>
+<p align="center">
+  <a href="https://github.com/TonyCrane">
+    <img width="400" align="top" src="/left-metrics.svg" />
+  </a>
+  &emsp;
+  <a href="https://github.com/TonyCrane">
+    <img width="400" align="top" src="/right-metrics.svg" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/TonyCrane">
+    <img width="400" align="top" src="/metrics.plugin.wakatime.svg" />
+  </a>
+  &emsp;
+  <a href="https://github.com/TonyCrane">
+    <img width="400" align="top" src="/metrics.plugin.anilist.svg" />
+  </a>
+</p>
