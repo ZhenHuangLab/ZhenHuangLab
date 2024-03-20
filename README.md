@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
+<p align="center"><img src="/metrics.plugin.anilist.svg" alt="Metrics"></p>
+<p align="center"><img src="/metrics.plugin.wakatime.svg" alt="Metrics"></p>
