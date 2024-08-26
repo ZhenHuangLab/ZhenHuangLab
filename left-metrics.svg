@@ -1239,7 +1239,7 @@
                                 </svg>
                                 🔬 cryo-EM
                             </h2>
-                            <div class="count">5 repositories</div>
+                            <div class="count">6 repositories</div>
                             <div class="description"></div>
                             <div class="languages">
                                 <div class="row">
@@ -1248,8 +1248,8 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="336" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="336" y="0" width="84" height="8" fill="#f34b7d"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="350" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="350" y="0" width="70" height="8" fill="#f34b7d"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -1262,8 +1262,8 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>80%</div>
-                                                <div>4★</div>
+                                                <div>83.33%</div>
+                                                <div>5★</div>
                                             </small>
                                         </div>
                                     </section>
@@ -1276,7 +1276,7 @@
                                                 C++
                                             </div>
                                             <small>
-                                                <div>20%</div>
+                                                <div>16.67%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1311,8 +1311,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">100</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
+                                <text x="60" y="60" dominant-baseline="central">99</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
