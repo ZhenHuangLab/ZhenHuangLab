@@ -1245,7 +1245,7 @@
                                 </svg>
                                 🔬 cryo-EM
                             </h2>
-                            <div class="count">12 repositories</div>
+                            <div class="count">14 repositories</div>
                             <div class="description"></div>
                             <div class="languages">
                                 <div class="row">
@@ -1254,10 +1254,10 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="245.00000000000003" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="245.00000000000003" y="0" width="70" height="8" fill="#f34b7d"/>
-                                        <rect mask="url(#languages-bar)" x="315" y="0" width="70" height="8" fill="#e16737"/>
-                                        <rect mask="url(#languages-bar)" x="385" y="0" width="35" height="8" fill="#da5b0b"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="240" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="240" y="0" width="90" height="8" fill="#f34b7d"/>
+                                        <rect mask="url(#languages-bar)" x="330" y="0" width="60" height="8" fill="#e16737"/>
+                                        <rect mask="url(#languages-bar)" x="390" y="0" width="30" height="8" fill="#da5b0b"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -1270,8 +1270,8 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>58.33%</div>
-                                                <div>7★</div>
+                                                <div>57.14%</div>
+                                                <div>8★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -1282,7 +1282,7 @@
                                                 MATLAB
                                             </div>
                                             <small>
-                                                <div>16.67%</div>
+                                                <div>14.29%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
@@ -1296,8 +1296,8 @@
                                                 C++
                                             </div>
                                             <small>
-                                                <div>16.67%</div>
-                                                <div>2★</div>
+                                                <div>21.43%</div>
+                                                <div>3★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -1308,7 +1308,7 @@
                                                 Jupyter Notebook
                                             </div>
                                             <small>
-                                                <div>8.33%</div>
+                                                <div>7.14%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
