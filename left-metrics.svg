@@ -1244,7 +1244,7 @@
                                 </svg>
                                 🔬 cryo-EM
                             </h2>
-                            <div class="count">27 repositories</div>
+                            <div class="count">28 repositories</div>
                             <div class="description"></div>
                             <div class="languages">
                                 <div class="row">
@@ -1253,12 +1253,12 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="217.77777777777777" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="217.77777777777777" y="0" width="108.88888888888889" height="8" fill="#f34b7d"/>
-                                        <rect mask="url(#languages-bar)" x="326.66666666666663" y="0" width="31.11111111111111" height="8" fill="#e16737"/>
-                                        <rect mask="url(#languages-bar)" x="357.7777777777777" y="0" width="31.11111111111111" height="8" fill="#da5b0b"/>
-                                        <rect mask="url(#languages-bar)" x="388.88888888888886" y="0" width="15.555555555555555" height="8" fill="#178600"/>
-                                        <rect mask="url(#languages-bar)" x="404.4444444444444" y="0" width="15.555555555555555" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="225" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="225" y="0" width="105" height="8" fill="#f34b7d"/>
+                                        <rect mask="url(#languages-bar)" x="330" y="0" width="30" height="8" fill="#e16737"/>
+                                        <rect mask="url(#languages-bar)" x="360" y="0" width="30" height="8" fill="#da5b0b"/>
+                                        <rect mask="url(#languages-bar)" x="389.99999999999994" y="0" width="15" height="8" fill="#178600"/>
+                                        <rect mask="url(#languages-bar)" x="404.99999999999994" y="0" width="15" height="8" fill="#3178c6"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -1271,8 +1271,8 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>51.85%</div>
-                                                <div>14★</div>
+                                                <div>53.57%</div>
+                                                <div>15★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -1283,7 +1283,7 @@
                                                 MATLAB
                                             </div>
                                             <small>
-                                                <div>7.41%</div>
+                                                <div>7.14%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
@@ -1295,7 +1295,7 @@
                                                 C#
                                             </div>
                                             <small>
-                                                <div>3.7%</div>
+                                                <div>3.57%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1309,7 +1309,7 @@
                                                 C++
                                             </div>
                                             <small>
-                                                <div>25.93%</div>
+                                                <div>25%</div>
                                                 <div>7★</div>
                                             </small>
                                         </div>
@@ -1321,7 +1321,7 @@
                                                 Jupyter Notebook
                                             </div>
                                             <small>
-                                                <div>7.41%</div>
+                                                <div>7.14%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
@@ -1333,7 +1333,7 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>3.7%</div>
+                                                <div>3.57%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1392,8 +1392,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="299.39 329"/>
-                                <text x="60" y="60" dominant-baseline="central">91</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">SEO</span>
                         </div>
