@@ -52,20 +52,6 @@
             <section>
                 <h2 class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M14.184 1.143a1.75 1.75 0 00-2.502-.57L.912 7.916a1.75 1.75 0 00-.53 2.32l.447.775a1.75 1.75 0 002.275.702l11.745-5.656a1.75 1.75 0 00.757-2.451l-1.422-2.464zm-1.657.669a.25.25 0 01.358.081l1.422 2.464a.25.25 0 01-.108.35l-2.016.97-1.505-2.605 1.85-1.26zM9.436 3.92l1.391 2.41-5.42 2.61-.942-1.63 4.97-3.39zM3.222 8.157l-1.466 1a.25.25 0 00-.075.33l.447.775a.25.25 0 00.325.1l1.598-.769-.83-1.436zm6.253 2.306a.75.75 0 00-.944-.252l-1.809.87a.75.75 0 00-.293.253L4.38 14.326a.75.75 0 101.238.848l1.881-2.75v2.826a.75.75 0 001.5 0v-2.826l1.881 2.75a.75.75 0 001.238-.848l-2.644-3.863z"/>
-                    </svg>
-                    Starred topics
-                </h2>
-                <div class="row">
-                    <section>
-                        <div class="topics fill-width">
-                        </div>
-                    </section>
-                </div>
-            </section>
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                     </svg>
                     Notable contributions
@@ -91,6 +77,20 @@
                         <img class="organization avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaQAAAGkCAIAAADxLsZiAAAACXBIWXMAAAsTAAALEwEAmpwYAAAMVUlEQVR4nO3Z0XHEOBJEwTV6XYMvbQZMOAPuazsmRBYrM2iAogS8oTT/XIAC/zz9AwD8BbEDKogdUEHsgApiB1QQO6CC2AEVxA6oIHZABbEDKogdUEHsgApiB1QQO6CC2AEVxA6oIHZABbEDKogdUEHsgApiB1QQO6CC2AEVxA6oIHZABbEDKogdUEHsgApiB1QQO6CC2AEVxA6oIHZABbEDKvxd7Obf43n/AvdbHt/TM685dWLnOIqdM3AaPmLFzkEXO2fgiN0veZ+PWOB+y+N7euY1p86bneMods7AafiIFTsHXeycgSN2v+R9PmKB+y2P7+mZ15w6b3aOo9g5A6fhI1bsHHSxcwaO2P2S9/mIBe63PL6nZ15z6rzZOY5i5wycho9YsXPQxc4ZOGL3S97nIxa43/L4np55zanzZuc4ip0zcBo+YsXOQRc7Z+CI3S95n49Y4H7L43t65jWnzpud4yh2zkDFR6zYOehi5wwcsfsl7/MRC9xveXxPz7zm1HmzcxzFzhk4DR+xYuegi50zcMTul7zPRyxwv+XxPT3zmlPnzc5xFDtn4DR8xIqdgy52zsARu1/yPh+xwP2Wx/f0zGtOnTc7x1HsnIHT8BErdg662DkDR+x+yft8xAL3Wx7f0zOvOXXe7BxHsXMGTsNHrNg56GLnDByx+yXv8xEL3G95fE/PvObUebNzHMXOGTgNH7Fi56CLnTNwxO6XvM9HLHC/5fE9PfOaU+fNznEUO2fgNHzEip2DLnbOwBG7X/I+H7HA/ZbH9/TMa06dNzvHUeycgdPwESt2DrrYOQNH7H7J+3zEAvdbHt/TM685dd7sHEexcwZOw0es2DnoYucMHLH7Je/zEQvcb3l8T897Tp03O8dR7JyB0/ARK3YOutg5A0fsfsn7fMQC91se39Mzrzl13uwcR7FzBk7DR6zYOehi5wwcsfsl7/MRC9xveXxPz7zm1HmzcxzFzhk4DR+xYuegi50zcMTul7zPRyxwv+XxPT3zmlPnzc5xFDtn4DR8xIqdgy52zsARu1/yPh+xwP2Wx/f0zGtOnTc7x1HsnIHT8BErdg662DkDR+x+yft8xAL3Wx7f0zOvOXXe7BxHsXMGTsNHrNg56GLnDByx+yXv8xEL3G95fE/PvObUebNzHMXOGTgNH7Fi56CLnTNwxO6XvM9HLHC/5fE9PfOaU+fNznEUO2fgNHzEip2DLnbOwBG7X/I+H7HA/ZbH9/TMa06dNzvHUeycgdPwESt2DrrYOQNi91Pe5yMWuN/y+J6eec2p82bnOFrAAqfhI/bvYvc9PrQt8OE0fI/Y7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidnuuugXELojY7bnqFhC7IGK356pbQOyCiN2eq24BsQsidkAFsQMqiB1QQeyACmIHVBA7oILYARXEDqggdkAFsQMqiB1QQeyACmIHVBA7oILYARXEDqggdkAFsQMqiB1QQeyACmIHVBA7oILYARXEDqggdkAFsQMqiB1QQeyACmIHVBA7oILYARXEDqggdkAFsQMqiB1QQeyACmIHVBA7oILYARXEDqggdkAFsQMqiB1QQeyACmIHVBA7oILYARXEDqggdkAFsQMqiB1QQeyACmIHVBA7oILYARXEDqggdkAFsQMqiB1QQeyACmIHVBA7oILYARXEDqggdkAFsQMqiB1QQeyACmIHVPi72M2/x2MBC1hg/i8Ff5MgsXP4LGCB82yCxc4RtIAFKha43uwe/x14LGCBEbv/yqGxgAUsMN7sHAILWKB2gevP2Md/Bx4LWGDEzp+xroEFLDDe7PzPzjWwgAXGn7EOgQUsYIHxPzuHwAIWqFrg+oLi8d+BxwIWGLHzBYVrYAELjDc7X1C4BhawwPgz1iGwgAUsMP5n5xBYwAJVC1xfUDz+O/BYwAIjdr6gcA0sYIHxZucLCtfAAhYYf8Y6BBawgAXG/+wcAgtYoGqB6wuKx38HHgtYYMTOFxSugQUsMN7sfEHhGljAAuPPWIfAAhawwPifnUNgAQtULXB9QfH478BjAQuM2PmCwjWwgAXGm50vKFwDC1hg/BnrEFjAAhYY/7NzCCxggaoFri8oHv8deCxggRE7X1C4BhawwHiz8wWFa2ABC4w/Yx0CC1jAAuN/dg6BBSxQtcD1BcXjvwOPBSwwYucLCtfAAhYYb3a+oHANLGCB8WesQ2ABC1hg/M/OIbCABaoWuL6gePx34LGABUbsfEHhGljAAuPNzhcUroEFLDD+jHUILGABC4z/2TkEFrBA1QLXFxSP/w48FrDAiJ0vKFwDC1hgvNn5gsI1sIAFxp+xDoEFLGCB8T87h8ACFqha4PqC4vHfgccCFhix8wWFa2ABC4w3O19QuAYWsMD4M9YhsIAFLDD+Z+cQWMACVQtcX1A8/jvwWMACI3a+oHANLGCB8WbnCwrXwAIWGH/GOgQWsIAFxv/sHAILWKBqgesLisd/Bx4LWGDEzhcUroEFLDDe7HxB4RpYwALjz1iHwAIWsMD4n51DYAELVC1wfUHx+O/AYwELjNj5gsI1sIAFxpudLyhcAwtYYPwZ6xBYwAIWGP+zcwgsYIGqBe7HvqAAeJDYARXEDqggdkAFsQMqiB1QQeyACmIHVBA7oILYARXEDqggdkAFsQMqiB1QQeyACmIHVBA7oILYARXEDqggdkAFsQMqiB1QQeyACmIHVBA7oILYARXEDqggdkAFsQMqiB1QQeyACmIHVBA7oILYAbfB/wCSKOZzf3+dzAAAAABJRU5ErkJggg==" width="16" height="16" />
                         <span class="name">@me50</span>
                     </div>
+                </div>
+            </section>
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M14.184 1.143a1.75 1.75 0 00-2.502-.57L.912 7.916a1.75 1.75 0 00-.53 2.32l.447.775a1.75 1.75 0 002.275.702l11.745-5.656a1.75 1.75 0 00.757-2.451l-1.422-2.464zm-1.657.669a.25.25 0 01.358.081l1.422 2.464a.25.25 0 01-.108.35l-2.016.97-1.505-2.605 1.85-1.26zM9.436 3.92l1.391 2.41-5.42 2.61-.942-1.63 4.97-3.39zM3.222 8.157l-1.466 1a.25.25 0 00-.075.33l.447.775a.25.25 0 00.325.1l1.598-.769-.83-1.436zm6.253 2.306a.75.75 0 00-.944-.252l-1.809.87a.75.75 0 00-.293.253L4.38 14.326a.75.75 0 101.238.848l1.881-2.75v2.826a.75.75 0 001.5 0v-2.826l1.881 2.75a.75.75 0 001.238-.848l-2.644-3.863z"/>
+                    </svg>
+                    Starred topics
+                </h2>
+                <div class="row">
+                    <section>
+                        <div class="topics fill-width">
+                        </div>
+                    </section>
                 </div>
             </section>
             <section>
