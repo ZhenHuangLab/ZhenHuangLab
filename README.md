@@ -25,17 +25,14 @@
       <a href="https://github.com/ZhenHuangLab">
         <img width="400" src="/left-metrics.svg" />
       </a>   
-      
       <a href="https://github.com/ZhenHuangLab">
         <img width="400" src="/metrics.plugin.anilist.svg" />
       </a>
     </td>
-    
     <td  width="50%" align="center" valign="top" style="border-left: none;">
       <a href="https://github.com/ZhenHuangLab">
         <img width="400" src="/right-metrics.svg" />
       </a>
-      
       <a href="https://github.com/ZhenHuangLab">
         <img width="400" src="/metrics.plugin.wakatime.svg" />
       </a> 
