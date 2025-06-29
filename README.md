@@ -10,12 +10,14 @@
   </samp>
 </p>
 
+<!--
 <p align="center">
   <samp>
   <a href="https://github.com/ZhenHuangLab"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZhenHuangLab&count_bg=%23003F88&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hits+daily%2Ftotal&edge_flat=false"/></a>
   <a href="https://wakatime.com/@018b6591-20df-4e17-9e3a-30529d0b82ca"><img src="https://wakatime.com/badge/user/018b6591-20df-4e17-9e3a-30529d0b82ca.svg"/></a>
   </samp>
 </p>
+-->
 
 <table border="0" cellpadding="0" cellspacing="0" align="center" style="width: 800px; border-collapse: collapse;">
   <tr>
