@@ -84,7 +84,7 @@ jobs:
           plugin_notable: yes
           plugin_rss: yes
           plugin_rss_limit: 3
-          plugin_rss_source: https://blog.zhenhuang.site/posts/index.xml
+          plugin_rss_source: https://blog.zhenhuang.top/posts/index.xml
           config_order: base.activity+community, notable, topics, rss
 
   github-metrics-plugin-anilist:
