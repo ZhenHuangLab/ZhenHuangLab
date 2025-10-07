@@ -26,7 +26,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_pagespeed: yes
-          plugin_pagespeed_url: https://zhenhuang.site
+          plugin_pagespeed_url: https://zhenhuang.top
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
