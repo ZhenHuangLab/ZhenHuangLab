@@ -2,11 +2,11 @@
 
 <p align="center">
   <samp>
-    <a href="https://zhenhuang.site/">🧭 Homepage</a> |
-    <a href="https://blog.zhenhuang.site/">📝 Blog</a> |
-    <a href="https://webslides.zhenhuang.site/">🖥️ Webslides</a> |
-    <a href="https://kirastar.zhenhuang.site">🔭 Kirastar</a> |
-    <a href="https://status.zhenhuang.site">📶 Uptime Monitor</a>
+    <a href="https://zhenhuang.top/">🧭 Homepage</a> |
+    <a href="https://blog.zhenhuang.top/">📝 Blog</a> |
+    <a href="https://webslides.zhenhuang.top/">🖥️ Webslides</a> |
+    <a href="https://kirastar.zhenhuang.top">🔭 Kirastar</a> |
+    <a href="https://status.zhenhuang.top">📶 Uptime Monitor</a>
   </samp>
 </p>
 
