@@ -87,14 +87,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.26624281538977" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="185.26624281538977" y="0" width="130.1621340887434" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="315.42837690413313" y="0" width="36.43557204774492" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="351.86394895187806" y="0" width="35.35939757477892" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="387.22334652665694" y="0" width="35.01296159041372" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="422.2363081170707" y="0" width="17.16770256447789" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="439.4040106815485" y="0" width="11.422836691575885" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="450.8268473731244" y="0" width="9.173152626875526" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.26514094989534" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="185.26514094989534" y="0" width="130.16135995330427" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="315.42650090319967" y="0" width="36.43535534825882" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="351.86185625145845" y="0" width="35.35918727580864" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="387.22104352726706" y="0" width="35.01275335186119" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="422.23379687912825" y="0" width="17.167600460075125" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="439.40139733920336" y="0" width="11.422768754592829" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="450.8241660937962" y="0" width="9.175833906203797" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -236,7 +236,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.44
+                            Average per day at ~2.45
                         </div>
                     </section>
                 </div>
@@ -1219,10 +1219,10 @@
                             </g>
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
-                            <g transform="translate(0, 3.3913043478260874)">
+                            <g transform="translate(0, 3.1304347826086953)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.608695652173913 0,3.608695652173913 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.608695652173913 1.7,4.608695652173913 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.869565217391305 0,3.8695652173913047 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.8695652173913047 1.7,4.869565217391305 z"/>
                             </g>
                         </g>
                     </g>
@@ -1395,8 +1395,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
-                                <text x="60" y="60" dominant-baseline="central">99</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
